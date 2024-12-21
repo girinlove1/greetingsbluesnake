@@ -1,0 +1,25 @@
+$mc: rgb(226, 171, 182);
+
+$rb: #395ba7;
+// $tc: rgb(63, 67, 63);
+// $bg: rgb(220, 220, 220);
+$ww: whitesmoke;
+// $lc: rgb(120, 120, 120);
+
+@import "reset";
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css');
+// font-family: 'Pretendard Variable';
+
+@import url("https://use.typekit.net/bto3byu.css");
+//font-family: "futura-pt"
+// font-family: "roc-grotesk-extrawide", 
+
+
+body{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+
+    overflow: hidden;
+
+}
